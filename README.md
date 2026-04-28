@@ -137,7 +137,7 @@ Airport Flight Delay Analytics and Prediction/
 
 | Home Page | Prediction Result |
 |---|---|
-| ![Home Page](demo/mainscreen.png) | ![Prediction Result](demo/resultscreen.png) |
+| ![Home Page](Demo/mainscreen.png) | ![Prediction Result](Demo/resultscreen.png) |
 
 
 ## Usage
